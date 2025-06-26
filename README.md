@@ -99,8 +99,7 @@
   <li>✅ Web Pentesting Tools & Techniques</li>
   <li>✅ Networking Basics & Protocols</li>
 </ul>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khaled-Teama&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Github Stats" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Khaled-Teama&count_private=true&show_icons=true&include_all_commits=true" alt="Github Stats" />
 </p>
-
-
