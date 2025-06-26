@@ -3,7 +3,7 @@
 <p>Currently exploring the world of <strong>Web Development</strong> and <strong>Penetration Testing</strong> through hands-on projects and continuous learning.</p>
 
 <p>
-<a href="https://github.com/your-username"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub Badge"></a>
+<a href="https://github.com/KhaledHany123"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub Badge"></a>
 <a href="https://stackoverflow.com/users/29733790/khaled-hany"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"></a>
 <a href="https://x.com/tet_andro87393"><img src="https://img.shields.io/badge/-@tet_andro87393-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
 <a href="https://www.reddit.com/user/Dhon_z/"><img src="https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit Badge"></a>
@@ -25,27 +25,69 @@
 </ul>
 
 <h2>🚀 Technologies & Tools</h2>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="25" height="25"/>
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/><br/>HTML5
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/><br/>CSS3
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br/>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/><br/>PHP
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/><br/>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/><br/>Bash
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/><br/>Linux
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/><br/>Node.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/><br/>React
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br/>Java
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/><br/>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/><br/>GitHub
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/><br/>VS Code
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/><br/>Command Line
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/512/3069/3069174.png" width="40" height="40"/><br/>Networking
+    </td>
+  </tr>
+</table>
 
 <h2>📚 Topics I'm Learning</h2>
 <ul>
-  <li>✅ OOP & Data Structures in Java</li>
+  <li>✅ Web Development (Frontend & Backend)</li>
+  <li>✅ OOP, Data Structures, Algorithms & Problem Solving using Java</li>
   <li>✅ Operating Systems & CPU Architecture</li>
   <li>✅ Web Pentesting Tools & Techniques</li>
   <li>✅ Networking Basics & Protocols</li>
 </ul>
 
 <h2>📈 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=Khaled-Teama&show_icons=true&count_private=true" alt="Khaled's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=KhaledHany123&show_icons=true&count_private=true" alt="Khaled's GitHub Stats" />
