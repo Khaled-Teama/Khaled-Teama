@@ -9,7 +9,9 @@
 <a href="https://www.reddit.com/user/Dhon_z/"><img src="https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit Badge"></a>
 <a href="https://codeforces.com/profile/Khaled_7k"><img src="https://img.shields.io/badge/-Codeforces-1f8acb?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces Badge"></a>
 <a href="https://www.codewars.com/users/Andro%20TeTato"><img src="https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white" alt="Codewars Badge"></a>
+<a href="https://leetcode.com/u/w1SagLlV2i/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white" alt="LeetCode Badge"></a>
 </p>
+
 
 <p>💡 *Stay curious and keep hacking.* 💡</p>
 
@@ -19,7 +21,7 @@
 <ul>
   <li>🔐 Currently studying <strong>Penetration Testing</strong> and <strong>Web Development</strong>.</li>
   <li>🎯 Goal: Become a <strong>Full Stack Developer</strong> with strong security skills.</li>
-  <li>💻 I’m passionate about <strong>Linux</strong>, <strong>Networks</strong>, <strong>Command Line</strong>, and <strong>System Architecture</strong>.</li>
+  <li>💻 Deeply interested in <strong>Operating Systems</strong>, <strong>CPU Architecture</strong>, <strong>System Architecture</strong>, and <strong>Security</strong> in general.</li>
   <li>📚 Always learning and building my skills in <strong>Programming</strong> and <strong>Cybersecurity</strong>.</li>
   <li>🛠️ I use Git to manage my projects and document my learning journey.</li>
 </ul>
@@ -75,7 +77,7 @@
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/><br/>Command Line
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" width="40" height="40"/><br/>Networking
+      <img src="https://cdn-icons-png.flaticon.com/512/9068/9068645.png" width="40" height="40"/><br/>Networking
     </td>
   </tr>
 </table>
@@ -90,4 +92,4 @@
 </ul>
 
 <h2>📈 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=KhaledHany123&show_icons=true&count_private=true" alt="Khaled's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Khaled-Teama&show_icons=true&count_private=true" alt="Khaled's GitHub Stats" />
