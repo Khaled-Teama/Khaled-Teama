@@ -13,6 +13,9 @@
 <a href="https://www.hackerrank.com/profile/tetandro2"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" alt="HackerRank Badge"></a>
 <a href="https://hackerone.com/khaledsed?type=user"><img src="https://img.shields.io/badge/-HackerOne-494649?style=flat-square&logo=HackerOne&logoColor=white" alt="HackerOne Badge"></a>
 </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Khaled-Teama&label=Profile%20views&color=0e75b6&style=flat" alt="Khaled-Teama" />
+</p>
 
 
 
