@@ -48,4 +48,4 @@
 </ul>
 
 <h2>📈 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true" alt="Khaled's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Khaled-Teama&show_icons=true&count_private=true" alt="Khaled's GitHub Stats" />
