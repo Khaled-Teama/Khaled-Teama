@@ -75,7 +75,7 @@
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/><br/>Command Line
     </td>
     <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/512/3069/3069174.png" width="40" height="40"/><br/>Networking
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" width="40" height="40"/><br/>Networking
     </td>
   </tr>
 </table>
