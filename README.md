@@ -14,14 +14,17 @@
 <a href="https://hackerone.com/khaledsed?type=user"><img src="https://img.shields.io/badge/-HackerOne-494649?style=flat-square&logo=HackerOne&logoColor=white" alt="HackerOne Badge"></a>
 </p>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Khaled-Teama&label=Profile%20views&color=0e75b6&style=flat" alt="Khaled-Teama" />
+  <img src="https://komarev.com/ghpvc/?username=Khaled-Teama&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 
 
 <p>💡 *Stay curious and keep hacking.* 💡</p>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<p align="left" style="margin-top: -20px;">
+  <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350" />
+</p>
+
 
 <h2>⚡️ Quick Facts</h2>
 <ul>
@@ -96,6 +99,8 @@
   <li>✅ Web Pentesting Tools & Techniques</li>
   <li>✅ Networking Basics & Protocols</li>
 </ul>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khaled-Teama&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Github Stats" width="500" />
+</p>
 
-<h2>📈 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=Khaled-Teama&show_icons=true&count_private=true" alt="Khaled's GitHub Stats" />
+
