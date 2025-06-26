@@ -100,4 +100,4 @@
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Khaled-Teama&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled-Teama&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-![](https://api.visitorbadge.io/api/VisitorHit?user=Khaled-Teama&repo=Khaled-Teama&countColor=%237B1E7A)
+
