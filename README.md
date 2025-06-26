@@ -3,7 +3,7 @@
 <p>Currently exploring the world of <strong>Web Development</strong> and <strong>Penetration Testing</strong> through hands-on projects and continuous learning.</p>
 
 <p>
-<a href="https://github.com/KhaledHany123"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub Badge"></a>
+<a href="https://github.com/Khaled-Teama"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub Badge"></a>
 <a href="https://stackoverflow.com/users/29733790/khaled-hany"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"></a>
 <a href="https://x.com/tet_andro87393"><img src="https://img.shields.io/badge/-@tet_andro87393-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
 <a href="https://www.reddit.com/user/Dhon_z/"><img src="https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit Badge"></a>
