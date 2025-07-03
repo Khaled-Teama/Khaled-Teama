@@ -148,6 +148,10 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Khaled-Teama&limit=5&theme=dark&title_color=0D5F1A&text_color=ffffff&bg_color=0d1117&combine_all_yearly_contributions=true" alt="Top Project Contributions" />
+</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=150&section=footer&text=Be%20someone%20else&fontSize=24&fontColor=000000&animation=fadeIn&fontAlignY=65" width="100%"/>
