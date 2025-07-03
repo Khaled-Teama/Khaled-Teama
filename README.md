@@ -1,4 +1,6 @@
-<h2>Hey 👋, I'm Khaled Hany</h2>
+
+<h2>Hey 👋, I'm Khaled Hany</h2> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BiNHlvYWR5bDlxcTJoYjBmZGpwOXp6cGN4YWh1MDhmOXYyZWI3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOeaTGiDBZgYM/giphy.gif" width="120" height="120" alt="s"> 
+
 <p>I'm a Computer Science student at <strong>Egyptian E-Learning University</strong>, passionate about <strong>Cybersecurity</strong> — especially in <strong>Offensive Security</strong> (Penetration Testing). I'm also learning <strong>Programming</strong> and aiming to become a <strong>Full Stack Developer</strong>.</p>
 <p>Currently exploring the world of <strong>Web Development</strong> and <strong>Penetration Testing</strong> through hands-on projects and continuous learning.</p>
 
@@ -22,6 +24,8 @@
 <p align="left" style="margin-top: -20px;">
   <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350" />
 </p>
+
+
 
 
 <h2>⚡️ Quick Facts</h2>
@@ -98,7 +102,54 @@
   <li>✅ Networking Basics & Protocols</li>
 </ul>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Khaled-Teama&show_icons=true&count_private=true" alt="spiderpig86" />
+<div align="center">
+  <table border="0" align="center">
+    <tr border="0">
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Khaled-Teama&show_icons=true&theme=dark&title_color=0D5F1A&icon_color=2D8F3A&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Security Statistics" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled-Teama&layout=compact&theme=dark&title_color=0D5F1A&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Language Arsenal" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled-Teama&layout=compact&theme=tokyonight)
+<div align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line">
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Khaled-Teama&theme=github_dark&utcOffset=8" alt="Activity Timeline" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khaled-Teama&theme=github_dark" alt="Security Arsenal by Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khaled-Teama&theme=github_dark" alt="Core Development Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khaled-Teama&theme=github_dark" alt="Development Metrics" />
+</div>
+
+
+
+
+
+
+<div align="center">
+  <a href="https://github.com/Khaled-Teama">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khaled-Teama&theme=github_dark" width="100%" />
+  </a>
+</div>
+
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Khaled-Teama&theme=matrix&column=4&row=2&margin-w=15&margin-h=15&no-frame=true" alt="Achievement Trophies" />
+  </a>
+</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=150&section=footer&text=Be%20someone%20else&fontSize=24&fontColor=000000&animation=fadeIn&fontAlignY=65" width="100%"/>
+</div>
 
