@@ -35,8 +35,7 @@
   <li>🛠️ I use Git to manage my projects and document my learning journey.</li>
 </ul>
 
-<h2>🚀 Technologies & Tools</h2>
-
+<h2>🚀 Technologies & Tools That i am still learning</h2>
 <table>
   <tr>
     <td align="center" width="100">
@@ -60,25 +59,19 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br/>JavaScript
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/><br/>SQL Server
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/><br/>Node.js
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40"/><br/>ASP.NET Core
+      <img src="https://nestjs.com/img/logo-small.svg" width="40" height="40"/><br/>Nest.js
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/><br/>C#
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br/>Java
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><br/>Python
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/><br/>MySQL
     </td>
     <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/><br/>Git
     </td>
+  </tr>
+  <tr>
     <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/><br/>Bash Script
     </td>
@@ -86,14 +79,23 @@
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/><br/>Command Line
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/><br/>Visual Studio
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br/>Java
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/><br/>Postman
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" height="40"/><br/>Swagger
     </td>
   </tr>
 </table>
 
 
 
-<h2>📚 Topics I'm Learning</h2>
+
+
+
+<h2>📚 Topics I'm still Learning</h2>
 <ul>
   <li>✅ Web Development (Frontend & Backend)</li>
   <li>✅ OOP, Data Structures, Algorithms & Problem Solving using Java</li>
