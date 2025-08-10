@@ -101,9 +101,10 @@
     <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bugcrowd.svg" width="40" height="40"/><br/>Bug Hunting
     </td>
-   <td align="center" width="100">
-  <img src="https://raw.githubusercontent.com/username/repo/main/icons/shield-security.svg" width="40" height="40"/><br/>Offensive Security
+<td align="center" width="100">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/security.svg" width="40" height="40"/><br/>Offensive Security
 </td>
+
   </tr>
 </table>
 
