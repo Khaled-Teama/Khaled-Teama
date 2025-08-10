@@ -96,10 +96,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original-wordmark.svg" width="40" height="40"/><br/>Mongoose
     </td>
     <td align="center" width="100">
-      <img src="https://www.svgrepo.com/show/331761/hacker.svg" width="40" height="40"/><br/>Web Pentesting
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackthebox.svg" width="40" height="40"/><br/>Web Pentesting
     </td>
     <td align="center" width="100">
-      <img src="https://www.svgrepo.com/show/475580/bug.svg" width="40" height="40"/><br/>Bug Hunting
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bugcrowd.svg" width="40" height="40"/><br/>Bug Hunting
     </td>
   </tr>
 </table>
