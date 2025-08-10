@@ -35,7 +35,7 @@
   <li>🛠️ I use Git to manage my projects and document my learning journey.</li>
 </ul>
 
-<h2>🚀 Technologies & Tools That i am still learning</h2>
+<h2>🚀 Technologies & Tools That I am still learning</h2>
 <table>
   <tr>
     <td align="center" width="100">
@@ -86,6 +86,14 @@
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" height="40"/><br/>Swagger
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br/>MongoDB
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original-wordmark.svg" width="40" height="40"/><br/>Mongoose
     </td>
   </tr>
 </table>
