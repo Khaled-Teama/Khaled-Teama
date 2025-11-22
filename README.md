@@ -6,14 +6,6 @@
 
 <p>
 <a href="https://github.com/Khaled-Teama"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub Badge"></a>
-<a href="https://stackoverflow.com/users/29733790/khaled-hany"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"></a>
-<a href="https://x.com/tet_andro87393"><img src="https://img.shields.io/badge/-@tet_andro87393-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
-<a href="https://www.reddit.com/user/Dhon_z/"><img src="https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit Badge"></a>
-<a href="https://codeforces.com/profile/Khaled_7k"><img src="https://img.shields.io/badge/-Codeforces-1f8acb?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces Badge"></a>
-<a href="https://www.codewars.com/users/Andro%20TeTato"><img src="https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white" alt="Codewars Badge"></a>
-<a href="https://leetcode.com/u/w1SagLlV2i/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white" alt="LeetCode Badge"></a>
-<a href="https://www.hackerrank.com/profile/tetandro2"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" alt="HackerRank Badge"></a>
-<a href="https://hackerone.com/khaledsed?type=user"><img src="https://img.shields.io/badge/-HackerOne-494649?style=flat-square&logo=HackerOne&logoColor=white" alt="HackerOne Badge"></a>
 </p>
 
 <p align="left">
